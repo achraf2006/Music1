@@ -1,0 +1,6 @@
+owner=535564628982497290
+prefix=!
+game=Galaxy | !play
+stayinchannel=true
+songinstatus=false
+token=NTgwODkwNjI0NDI1ODUyOTU4.XOcipw.4EsQbr8Lqx4yOZdLMA1KKrZvYTc
